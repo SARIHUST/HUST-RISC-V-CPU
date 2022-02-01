@@ -1528,6 +1528,13 @@
       <a name="label" val="Lui"/>
       <a name="labelfont" val="SansSerif plain 10"/>
     </comp>
+    <comp lib="6" loc="(530,847)" name="Text">
+      <a name="text" val="imm20 LUI"/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="color" val="#000000"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </comp>
     <comp lib="6" loc="(1140,513)" name="Text">
       <a name="text" val="数据存储器"/>
       <a name="font" val="SansSerif bold 12"/>
@@ -2153,6 +2160,13 @@
       <a name="labelcolor" val="#000000"/>
       <a name="negate0" val="false"/>
       <a name="negate1" val="false"/>
+    </comp>
+    <comp lib="6" loc="(861,892)" name="Text">
+      <a name="text" val="LBU stores the lowest byte"/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="color" val="#000000"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
     </comp>
     <comp lib="0" loc="(1150,990)" name="Tunnel">
       <a name="facing" val="north"/>
